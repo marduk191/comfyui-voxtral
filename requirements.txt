@@ -1,2 +1,4 @@
 gradio_client
 soundfile
+soxr
+huggingface_hub
